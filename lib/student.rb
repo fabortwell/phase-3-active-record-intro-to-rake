@@ -50,3 +50,4 @@ class Student
   end
 
 end
+  
